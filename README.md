@@ -2,6 +2,6 @@
 
 Go Developer, Teacher, Creator, Open-Source contributor, Pizza (and food) afficionado.
 
-Catch me on [Linkedin](https://www.linkedin.com/in/arturkondas/) and [Twitter](https://twitter.com/arturkondas)
+Catch me on [Linkedin](https://www.linkedin.com/in/arturkondas/) and [Twitter](https://twitter.com/arturkondas).
 
-Watch my latest music video [here](https://bit.ly/enae-system)
+Watch my latest music video [HERE!](https://bit.ly/enae-system)
