@@ -10,4 +10,4 @@ Watch my latest music video **[HERE!](https://bit.ly/enae-system)**
 
 [And if you wonder about my long-term plans](https://github.com/docker/cli/issues/267#issuecomment-695149477)
 
-// Wanna hire me? Let's talk. You know where to find me.
+> Wanna hire me? Let's talk. You know where to find me.
