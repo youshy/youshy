@@ -1,6 +1,6 @@
 # Artur Kondas
 
-Senior Go Developer, Site Reliabilty Engineer, Teacher, Creator, Open-Source contributor, Pizza (and food) afficionado.
+Senior Go Developer, Site Reliability Engineer, Teacher, Creator, Open-Source contributor, Pizza (and food) afficionado.
 
 Read my stuff on [akondas.com](https://akondas.com).
 
