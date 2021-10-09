@@ -4,7 +4,7 @@ Senior Go Developer, Site Reliability Engineer, Teacher, Creator, Open-Source co
 
 Read my stuff on [akondas.com](https://akondas.com).
 
-Catch me on [Linkedin](https://www.linkedin.com/in/arturkondas/) and [Twitter](https://twitter.com/arturkondas).
+Catch me on [Linkedin](https://www.linkedin.com/in/arturkondas/).
 
 Watch my latest music video **[HERE!](https://bit.ly/enae-system)**
 
