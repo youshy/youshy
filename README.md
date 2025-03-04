@@ -2,7 +2,7 @@
 
 Lead Developer, Go SME, Site Reliability Engineer, Teacher, Creator, Open-Source contributor, Pizza (and food) afficionado.
 
-If you're Polish, I'm running a small venture called `Brudne Brzmienie` that you can catch on [YouTube](https://www.youtube.com/@brudnebrzmienie) or on [Instagram](https://www.instagram.com/brudne_brzmienie/)
+If you're Polish, I'm running a small venture called `Brudne Brzmienie` that you can catch on [YouTube](https://www.youtube.com/@brudnebrzmienie) or on [Instagram](https://www.instagram.com/brudne_brzmienie/). (Only in Polish language, sorry!)
 
 Read my stuff on [akondas.com](https://akondas.com).
 
